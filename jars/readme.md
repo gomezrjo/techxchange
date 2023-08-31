@@ -1,1 +1,1 @@
-# This folder contains the jar files with the MQ client application
+## This folder contains the jar files with the MQ client application
